@@ -21,7 +21,7 @@ Ada defined a variable for each candidate molecule, which could take the value o
 
 Next, Ada added a constraint to the model, ensuring that only one molecule could be selected from the list. With the objective function and constraints in place, she used the quantum computer's powerful LeapHybridCQMSampler to search for the best solution. 
 
-The quantum computer analyzed the problem and quickly found the optimal solution. It selected the molecule with the SMILES code "CCO" and the English name "Ethanol," which had 3 atoms and 3 bonds, exactly matching the target. 
+The quantum computer analyzed the problem and quickly found the optimal solution. It selected the molecule with the SMILES code "CC=O" and the English name "Acetaldehyde," which had 3 atoms and 3 bonds, exactly matching the target. 
 
 Ada was thrilled with the results and felt a great sense of accomplishment. She had successfully solved the mysterious challenge using her knowledge, creativity, and the power of the quantum computer. And so, the story of Ada's molecular adventure spread throughout the village, inspiring others to explore the fascinating world of chemistry and quantum computing.
 
